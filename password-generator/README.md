@@ -12,4 +12,4 @@ Copy your new password or click 'Create password' again to get a new one.
 
 ## Knowledge
 
-- [] React State (Hooks);
+- [ ] React State (Hooks);
